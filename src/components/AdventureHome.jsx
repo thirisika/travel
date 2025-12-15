@@ -18,7 +18,7 @@ const AdventureHomepage = () => {
           loop
           muted
           playsInline
-          src="/video/video.mp4"
+          src="./video/video.mp4"
         />
         <Box sx={{ position: "absolute", inset: 0, backgroundColor: "rgba(0,0,0,0.4)", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", p: 4 }}>
           {/* Welcome Message */}
